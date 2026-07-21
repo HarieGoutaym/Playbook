@@ -1,4 +1,4 @@
-\# 📘 Playbook
+# 📘 Playbook
 
 
 
@@ -6,51 +6,51 @@ My personal knowledge base documenting everything I learn throughout my engineer
 
 
 
-\## 🎯 Goals
+## 🎯 Goals
 
 
 
-\- Master Data Structures \& Algorithms
+- Master Data Structures & Algorithms
 
-\- Build strong Computer Science fundamentals
+- Build strong Computer Science fundamentals
 
-\- Learn Linux and system administration
+- Learn Linux and system administration
 
-\- Develop Embedded Systems and IoT projects
+- Develop Embedded Systems and IoT projects
 
-\- Prepare for software engineering placements
-
-
-
-\---
+- Prepare for software engineering placements
 
 
 
-\## 📚 Contents
+---
 
 
 
-\- 🧠 DSA
-
-\- 🐧 Linux
-
-\- 💻 Operating Systems
-
-\- 🌐 Computer Networks
-
-\- 🗄️ DBMS
-
-\- ⚙️ Embedded Systems
-
-\- 🎤 Interview Preparation
+## 📚 Contents
 
 
 
-\---
+- 🧠 DSA
+
+- 🐧 Linux
+
+- 💻 Operating Systems
+
+- 🌐 Computer Networks
+
+- 🗄️ DBMS
+
+- ⚙️ Embedded Systems
+
+- 🎤 Interview Preparation
 
 
 
-\## 📌 Philosophy
+---
+
+
+
+## 📌 Philosophy
 
 
 
@@ -60,13 +60,13 @@ My personal knowledge base documenting everything I learn throughout my engineer
 
 Every concept in this repository includes:
 
-\- Intuition
+- Intuition
 
-\- Explanation
+- Explanation
 
-\- Examples
+- Examples
 
-\- Common mistakes
+- Common mistakes
 
-\- Key takeaways
+- Key takeaways
 
